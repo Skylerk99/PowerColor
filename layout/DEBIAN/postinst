@@ -1,0 +1,5 @@
+#!/bin/sh
+#echo Clearing Cache...
+cd /var/mobile/Library/Caches/com.apple.UIStatusBar; rm -R -f images; rm -f version
+#echo Cache Cleared.
+

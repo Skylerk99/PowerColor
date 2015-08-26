@@ -1,0 +1,9 @@
+Package: com.skylerk99.powercolor
+Name: PowerColor
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Battery transitions from green to yellow to red as battery goes from 100% to 0%.
+Maintainer: Skyler Kansala
+Author: Skyler Kansala
+Section: Tweaks
