@@ -16,5 +16,5 @@ _THEOS_INTERNAL_PACKAGE_VERSION = 1.2
 
 after-install::
 	install.exec "cd /var/mobile/Library/Caches/com.apple.UIStatusBar; rm -R -f images; rm -f version; killall -9 SpringBoard"
-SUBPROJECTS += powercolor
+SUBPROJECTS += Prefs
 include $(THEOS_MAKE_PATH)/aggregate.mk

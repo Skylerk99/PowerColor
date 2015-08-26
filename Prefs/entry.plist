@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = powercolor;
+		cell = PSLinkCell;
+		detail = "powercolorListController";
+		icon = "icon.png";
+		isController = 1;
+		label = PowerColor;
+	};
+}
